@@ -1,11 +1,3 @@
 {
-  "notices": [
-    {
-      "id": "test-001",
-      "active": true,
-      "level": "info",
-      "message": "🦆 かもちゃんからテスト通知です！バナーが表示されています",
-      "expires": "2026-12-31T00:00:00+09:00"
-    }
-  ]
+  "notices": []
 }
